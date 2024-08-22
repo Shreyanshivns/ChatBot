@@ -1,4 +1,4 @@
-#Chatbot with NLP in Java
+Chatbot with NLP in Java
 A simple chatbot that uses Natural Language Processing (NLP) to understand and respond to user queries.
 
 #Features
